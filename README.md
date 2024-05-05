@@ -33,7 +33,7 @@
 
 <div>
   <img heigth="140" src="https://github-readme-stats.vercel.app/api?username=DanXDanXD&show_icons=true&theme=nord"  />
-  <img heigth="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanXDanXD&size_weight=0.5&count_weight=0.5&&theme=nord" />
+  <img heigth="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanXDanXD&size_weight=0.5&count_weight=0.5&&theme=nord" />
 </div>
 
 ## My Skill
