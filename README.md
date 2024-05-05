@@ -10,7 +10,8 @@
 
   - 🌱 Sou um estudante de ADS estou estudando banco de dados e computação em nuvem.![udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) 
   - 🔭 Estou em busca da minha primera oportunidae em cloud.
-  - 
+  - 👨‍🎓 Estou estudando tambem Kotlin, SQL, AWS, Azure e Google Cloud.
+  - 👨‍💻 Quero entra em DevOps criar e fazer a infraestrutura de banco de dados.
 </p>
 
 
@@ -45,6 +46,14 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
+#### Design programs:
+
+![Lithg](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white
+)&nbsp;
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black
+)&nbsp;
+![Premier](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white
+)&nbsp;
 
 
 #### Studying in this moment:
@@ -62,3 +71,10 @@
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Pychar](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
 ![notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
+
+#### Artificial Intelligence:
+
+![GPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+)&nbsp;
+![gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff
+)&nbsp;
