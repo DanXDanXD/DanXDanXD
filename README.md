@@ -32,8 +32,8 @@
 ###
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanXDanXD&show_icons=true&theme=dracula&include_all_commits=true&count_private=false" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanXDanXD&layout=compact&langs_count=16&theme=dracula" />
+  <img heigth="140" src="https://github-readme-stats.vercel.app/api?username=DanXDanXD&show_icons=true&theme=nord"  />
+  <img heigth="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanXDanXD&size_weight=0.5&count_weight=0.5&&theme=nord" />
 </div>
 
 ## My Skill
