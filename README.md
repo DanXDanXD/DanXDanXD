@@ -9,9 +9,9 @@
   Ola 👋, sou o Adauto .
 
   - 🌱 Sou um estudante de ADS estou estudando banco de dados e computação em nuvem.![udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) 
-  - 🔭 Estou em busca da minha primera oportunidae em cloud.
+  - 🔭 Estou em busca da minha primera oportunidade em cloud.
   - 👨‍🎓 Estou estudando tambem Dart, Flutter, SQL, AWS, Azure e Google Cloud.
-  - 👨‍💻 Quero entra em DevOps criar e fazer a infraestrutura de banco de dados.
+  - 👨‍💻 Quero entrar em DevOps criar e fazer a infraestrutura de banco de dados.
 </p>
 
 
