@@ -7,15 +7,15 @@
 
 <!-- Apresentação -->
 <p>
-  👋 Olá, sou o <strong>Adauto Dan</strong>! Sou de São Paulo e estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Anhanguera, com foco em iniciar carreira em <strong>Dados, BI e DevOps</strong>.
+  👋 Olá, sou o <strong>Adauto Dan</strong>, estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e apaixonado por tecnologia, dados, cloud e DevOps.
 
-  💼 Tenho experiência prática com suporte técnico, infraestrutura, cloud e integrações em empresas como <strong>Tech Mahindra (Ambev)</strong>, <strong>Fiven (TIM)</strong> e <strong>Fractalia (Vivo)</strong>.
+  💼 Tenho experiência prática com suporte técnico e infraestrutura em empresas como <strong>Tech Mahindra (Ambev)</strong>, <strong>Fiven (TIM)</strong> e <strong>Fractalia (Vivo)</strong>, atuando com análise de incidentes, integrações de sistemas (SAP, WMS, Promax), SQL e monitoramento com DataDog.
 
-  🔎 Atualmente busco minha primeira oportunidade como <strong>Analista Júnior</strong> nessas áreas, aplicando o que aprendo em cursos, projetos e estudos autodidatas.
+  🔁 Atualmente, estou em transição de carreira buscando minha primeira oportunidade como <strong>Analista Júnior</strong> nas áreas de <strong>Dados, BI ou DevOps</strong>, aplicando o que venho aprendendo em cursos e projetos pessoais.
 
-  ☁️ Estou me especializando em ambientes <strong>multi-cloud</strong> (AWS, Azure e GCP), além de ferramentas como <strong>Docker, Kubernetes, Power BI, SQL</strong> e automações com <strong>Shell Script e PowerShell</strong>.
+  ☁️ Estou me especializando em ambientes <strong>multi-cloud</strong> (AWS, Azure e GCP), além de ferramentas como <strong>Docker, Kubernetes, Power BI, GitHub Actions</strong>, e automações com <strong>Shell Script e PowerShell</strong>.
 
-  🎮 Também sou apaixonado por games (Zelda, Pokémon, TLOU), tecnologia, drones, fotografia e desafios técnicos!
+  🎮 Fora da área técnica, sou apaixonado por games como Zelda, Pokémon, TLOU e RDR2, além de fotografia com drones e edição de vídeos. Gosto de aprender, criar e resolver problemas.
 
 </p>
 
@@ -45,7 +45,7 @@
 
 ## 🚀 Minhas Skills
 
-### 🧰 Main Stack:
+### 🧰 Tecnologias principais:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -54,12 +54,12 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🎨 Design:
+### 🎨 Design e edição:
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-### 📘 Atualmente estudando:
+### 📘 Estudando no momento:
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -69,7 +69,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🖥️ Ferramentas de Trabalho:
+### 🛠️ Ferramentas:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
