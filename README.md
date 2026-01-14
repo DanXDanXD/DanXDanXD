@@ -29,18 +29,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
-<div>
-  <img heigth="140" src="https://github-readme-stats.vercel.app/api?username=DanXDanXD&show_icons=true&theme=nord"  />
-</div>
-
-###
-
-<div>
-  <img heigth="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanXDanXD&size_weight=0.5&count_weight=0.5&&theme=nord" />
-  </div>
-
 ## My Skill
 
 
