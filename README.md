@@ -1,84 +1,113 @@
-<!-- Título centralizado -->
-<h1 align="center">🚀 Bem-vindo ao meu GitHub!</h1>
-
-<!-- Apresentação -->
-<p align="center">
-  👋 Olá, sou o <strong>Adauto Dan</strong>, estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e apaixonado por tecnologia, dados, cloud e DevOps.
-  <br><br>
-  💼 Tenho experiência prática em suporte técnico e infraestrutura, com passagens por <strong>Tech Mahindra (Ambev)</strong>, <strong>Fiven (TIM)</strong> e <strong>Fractalia (Vivo)</strong>.
-  <br>
-  🔁 Em transição para <strong>Dados, BI ou DevOps</strong>, buscando minha primeira oportunidade como <strong>Analista Júnior</strong>.
-  <br>
-  ☁️ Estudando <strong>AWS, Azure, GCP, Docker, Kubernetes, Power BI, GitHub Actions</strong> e automações com <strong>Shell Script e PowerShell</strong>.
-  <br>
-  🎮 Curto games como Zelda, Pokémon, TLOU e RDR2, além de fotografia com drones e edição de vídeos.
-</p>
-
-
-###
 <div align="center">
-   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d2c9658-e25e-4dd6-9c56-932447f29482/ddio625-88c6c961-13c1-43ee-a08f-3c3ceeb7f053.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkMmM5NjU4LWUyNWUtNGRkNi05YzU2LTkzMjQ0N2YyOTQ4MlwvZGRpbzYyNS04OGM2Yzk2MS0xM2MxLTQzZWUtYTA4Zi0zYzNjZWViN2YwNTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1Shjpe-XOI7ativXu5UeoPDRzJkK_mAkgdJdHTEVSQM" heitght="350"  />
 
+![Banner Adauto](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d2c9658-e25e-4dd6-9c56-932447f29482/ddio625-88c6c961-13c1-43ee-a08f-3c3ceeb7f053.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkMmM5NjU4LWUyNWUtNGRkNi05YzU2LTkzMjQ0N2YyOTQ4MlwvZGRpbzYyNS04OGM2Yzk2MS0xM2MxLTQzZWUtYTA4Zi0zYzNjZWViN2YwNTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1ShjpE-XOI7ativXu5UeosDRzJkK_mAkgdJdHTEVSQM)
 
-###
+# Adauto Dan
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### Analista de Dados Jr. | SQL · Python · Power BI · Excel Avançado · AWS · Intune
+
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/adauto-d-36466b121)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/dan.adauto/)
+[![Twitch](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge)](https://twitch.tv/)
+[![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com/)
+
 </div>
 
-## My Skill
+---
 
+## Sobre mim
 
-#### Main Stack:
+Profissional de TI com 4 anos de experiência em ambientes corporativos de grande porte — **Ambev** (via Tech Mahindra), **TIM** (via Fiven) e **Vivo** (via Fractalia) — com foco crescente em análise de dados, automação de relatórios e visualização de informações.
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+Tenho vivência prática com diagnóstico de inconsistências via **SQL** em integrações SAP, controle de **KPIs** em Excel avançado, automação de pipelines com **Python e Pandas**, e administração de dispositivos com **Microsoft Intune e Azure**.
 
+Atualmente aprofundando Power BI, Python para análise de dados e SQL avançado, com foco em vagas de **Analista de Dados Jr.** e **BI Jr.**
 
-#### Design programs:
+---
 
-![Lithg](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white
-)&nbsp;
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black
-)&nbsp;
-![Premier](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white
-)&nbsp;
+## 🗂️ Projetos de Dados
 
+### 📊 Pipeline de Relatório de Estoque — Python + Pandas + Excel
+> **Problema resolvido:** automatizar a geração de relatórios de controle de estoque que antes eram feitos manualmente, eliminando erros e reduzindo tempo de processamento.
 
-#### Studying in this moment:
+- Lê e processa arquivos `.xlsx` de uma pasta automaticamente
+- Calcula KPIs: estoque total, itens com defeito (BAD) e quantidade atual disponível
+- Agrupa dados por modelo, fornecedor, número e nome de peça
+- Exporta relatório final formatado em `.xlsx` pronto para uso gerencial
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
-![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Kun](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+`Python` `Pandas` `openpyxl` → 🔗 [Importe de Relatório](https://github.com/DanXDanXD/Importe_de_relatorio)
 
+---
 
+### 🌐 Tradutor Automático de Planilhas — Python + Pandas
+> **Problema resolvido:** traduzir grandes volumes de dados textuais em planilhas Excel em lote, sem retrabalho manual.
 
-#### Workstation Tools:
+- Processa todas as abas e colunas de texto de arquivos `.xlsx` em lote
+- Detecta automaticamente colunas textuais, ignorando dados numéricos
+- Preserva o arquivo original e gera versão traduzida com sufixo `_TRADUZIDO.xlsx`
 
-![AndroidSt](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
-![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Pychar](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
-![notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+`Python` `Pandas` `deep-translator` `openpyxl` → 🔗 [Tradução Pandas](https://github.com/DanXDanXD/Tradu--o-Pandas)
 
-#### Artificial Intelligence:
+---
 
-![GPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
-)&nbsp;
-![gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff
-)&nbsp;
+### 📋 Criação de Planilhas em Sequência — Python + openpyxl
+> Automação para geração sequencial de planilhas Excel padronizadas.
+
+`Python` `openpyxl` → 🔗 [Ver repositório](https://github.com/DanXDanXD/Cria-o-de-planilha-em-sequencia)
+
+---
+
+### 📦 Relatório de Estoque — Python + Excel
+> Controle e geração automatizada de relatórios de estoque exportados para Excel.
+
+`Python` `openpyxl` → 🔗 [Ver repositório](https://github.com/DanXDanXD/Relatorio-estoque)
+
+---
+
+### ☁️ AWS Cloud Study — Python
+> Scripts do Bootcamp AWS Santander/DIO aplicando conceitos de cloud com Python.
+
+`Python` `AWS` → 🔗 [AWS-MD01](https://github.com/DanXDanXD/AWS-MD01)
+
+---
+
+## 🛠️ Stack Técnica
+
+#### Dados & BI
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://microsoft.com/sql-server)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+
+#### Cloud & Infra
+[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://microsoft.com/intune)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+
+#### Ferramentas & Dev
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://jetbrains.com/pycharm)
+
+#### Estudando agora
+[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=black)](https://oracle.com)
+
+---
+
+## 📚 Certificações
+
+| Área | Certificação |
+|------|-------------|
+| ☁️ Cloud | AWS Cloud Practitioner Essentials · AWS Well-Architected · Estratégias de Migração AWS CAF |
+| 📊 Dados | Banco de Dados e SQL – Udemy · Data Science Oracle ONE *(em andamento)* |
+| 🏢 ERP | Fundamentos SAP – Ka Solution |
+| 🔐 Outros | LGPD – Fundação Bradesco · Git e GitHub – DIO · JavaScript – Alura · SharePoint – Fundação Bradesco |
+| 🎓 Graduação | Tecnólogo em ADS – Anhanguera *(previsão Dez/2026)* |
