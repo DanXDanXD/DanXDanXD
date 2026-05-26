@@ -1,3 +1,5 @@
+<div align="center">
+
 # Bem vindo ao meu Git Hub
 
 ### Analista de Dados Jr. | SQL · Python · Power BI · Excel Avançado · AWS · Intune
